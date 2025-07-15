@@ -1,4 +1,4 @@
-# 2025-TakTik-Robot-Controls
+# 2025-Robot-Controls
 
 This repository contains the C++ codebase for the Marianopolis robotics team competing in the 2025 CRC Robotics Competition. The code is designed to be uploaded via the [Arduino IDE](https://www.arduino.cc/en/software) to control our custom-built robot.
 
@@ -53,4 +53,4 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 1. **Install Arduino IDE**: [Download here](https://www.arduino.cc/en/software).
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/dwei-exe/2025-TakTik-Robot-Controls.git
+   git clone https://github.com/dwei-exe/2025-Robot-Controls.git
