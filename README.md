@@ -53,4 +53,4 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 1. **Install Arduino IDE**: [Download here](https://www.arduino.cc/en/software).
 2. **Clone this repository**:
    ```bash
-   git clone https://github.com/marianopolis-robotics/2025-TakTik-Robot-Controls.git
+   git clone https://github.com/dwei-exe/2025-TakTik-Robot-Controls.git
