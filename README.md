@@ -44,6 +44,7 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 
 ### Motor Controllers
 - We use **VEX Victor SPX** motor controllers for reliable motor actuation.
+- We use 2 goBilda 5202 Series Yellow Jackets (which have a 6mm D-Shaft) at 30RPM and 60RPM for the main arm joints. They come with built-in quadrature encoders for PID controls. The specifications of these FTC legal motors are available [here](https://www.gobilda.com/yellow-jacket-planetary-gear-motors?srsltid=AfmBOopsTfxfbD4u5MEE4EgBx47DAuOrVyuZktkP877sHpAUvZp4fgEy).
 - Detailed **pin mappings**, connection instructions, and setup notes can be found in [`epsilon25.ino`](./epsilon25.ino).
 
 ---
@@ -51,6 +52,7 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 ## 💡 Getting Started
 
 1. **Install Arduino IDE**: [Download here](https://www.arduino.cc/en/software).
-2. **Clone this repository**:
+2. **Install dependencies**: This code requires the Encoder library by Paul Stoffregen. [Make sure to install it in the Arduino IDE](https://www.arduinolibraries.info/libraries/encoder)
+3. **Clone this repository**:
    ```bash
    git clone https://github.com/dwei-exe/2025-Robot-Controls.git
