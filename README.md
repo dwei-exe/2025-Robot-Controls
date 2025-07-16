@@ -17,7 +17,7 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 
 | File | Description |
 |------|-------------|
-| `alpha25.ino`, `epsilon25.ino` | Main Arduino sketch files for robot control. `epsilon25.ino` contains key pin definitions and hardware wiring documentation. |
+| `epsilon25.ino` | Main Arduino sketch files for robot control. `epsilon25.ino` contains key pin definitions and hardware wiring documentation. |
 | `drive25.cpp`, `drive25.h` | Implements the robot drive system including high/low speed modes and joystick control. |
 | `button.cpp`, `button.h` | Debounce logic and button handling for various input triggers. |
 | `cu.sh`, `mon.sh` | Utility shell scripts for uploading and monitoring serial output from the Arduino. |
