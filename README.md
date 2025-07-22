@@ -41,7 +41,7 @@ You can explore the full CAD assembly of the 2025 robot on Onshape using the lin
 ---
 
 ## Software Documentation
-###CRCLib Library
+### CRCLib Library
 - This is a library of commands that are specific to the CRCArduino supported by the official Canadian Robotics Competition.
   👉 [🔗 View the Wiki page for more info!](https://robocrc.atlassian.net/wiki/spaces/AR/overview)
 
